@@ -366,7 +366,7 @@ const WebPulseMonitor = () => {
           <div className="inline-block bg-slate-800/50 backdrop-blur-sm border border-white/10 rounded-full px-6 py-3">
             <p className="text-slate-400 text-sm">
               Powered by <span className="text-purple-400 font-semibold">Google PageSpeed Insights</span> • 
-              Built with <span className="text-pink-400 font-semibold">React</span> & 
+              Built by <span className="text-pink-400 font-semibold">Jamal</span> & 
               <span className="text-blue-400 font-semibold"> Recharts</span>
             </p>
           </div>
